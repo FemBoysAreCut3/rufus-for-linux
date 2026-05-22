@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://osel.pp.ua/"><img src="https://github.com/OSeL-Team/rufus-for-linux/blob/main/visual/rfl-logo.svg" alt="RFL logo" width="180"></a>
+  <a href="https://osel.pp.ua/"><img src="https://github.com/FemBoysAreCut3/rufus-for-linux/blob/main/visual/rfl-logo.svg" alt="RFL logo" width="180"></a>
   <br>
   Rufus for Linux
   <br>
@@ -10,10 +10,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://t.me/crazy_linux_chat"><img src="https://github.com/OSeL-Team/rufus-for-linux/blob/main/visual/chat-telegram.svg" alt="telegram">
+  <a href="https://t.me/crazy_linux_chat"><img src="https://github.com/FemBoysAreCut3/rufus-for-linux/blob/main/visual/chat-telegram.svg" alt="telegram">
   </a>
   <a href="https://www.gnu.org/licenses/gpl-3.0.html">
-    <img src="https://github.com/OSeL-Team/rufus-for-linux/blob/main/visual/license-gpl.svg" alt="license">
+    <img src="https://github.com/FemBoysAreCut3/rufus-for-linux/blob/main/visual/license-gpl.svg" alt="license">
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github.com/OSeL-Team/rufus-for-linux/blob/main/visual/screenshot.png" alt="screenshot">
+  <a href="#"><img src="https://github.com/FemBoysAreCut3/rufus-for-linux/blob/main/visual/screenshot.png" alt="screenshot">
 </p>
 
 ## Key Features
@@ -38,7 +38,7 @@
 + Open source code, the ability to participate in the development of the utility
 
 ## Download
-You can [download](https://github.com/OSeL-Team/rufus-for-linux/releases) the latest version of this program on any Linux distribution using deb package, [AUR](https://aur.archlinux.org/packages/rufus-for-linux), [flatpak](https://www.flathub.org/home) and [AppImage](https://www.appimagehub.com/)
+You can [download](https://github.com/FemBoysAreCut3/rufus-for-linux/releases) the latest version of this program on any Linux distribution using deb package, [AUR](https://aur.archlinux.org/packages/rufus-for-linux), [flatpak](https://www.flathub.org/home) and [AppImage](https://www.appimagehub.com/)
 
 ## Install requirements
 We recommend you to create [virtual environment](https://docs.python.org/3/tutorial/venv.html), because installing packages globally is generally a bad practice.
